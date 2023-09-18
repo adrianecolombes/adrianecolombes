@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 
 
-Meu nome é Adriane ColombesMarcelo Paludetto
+Meu nome é Adriane Colombes
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
