@@ -1,4 +1,4 @@
-### Boas vindas ao meu perfil :blue_heart
+### Boas vindas ao meu perfil 
 
 Meu nome é Adriane ColombesMarcelo Paludetto
 
@@ -11,4 +11,4 @@ Meu nome é Adriane ColombesMarcelo Paludetto
 adrianecolombes@gmail.com
 @adrianecolombes
 
-![descrição do GIF](link GIF do Tenor)
+
